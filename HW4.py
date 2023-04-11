@@ -67,6 +67,8 @@ print(a)
 
 
 # Task 4.5
+import time
+print(time.perf_counter())
 
 
 
